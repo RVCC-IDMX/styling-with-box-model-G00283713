@@ -6,9 +6,9 @@
 
   .box-one {
     background-color: red;
+    border: 0 solid purple;
     border-width: 20px;
     padding: 20px;
-    border: 0 solid purple;
 
   } 
 
